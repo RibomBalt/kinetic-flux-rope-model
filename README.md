@@ -1,5 +1,7 @@
 # Kinetic Flux Rope Model
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5555811.svg)](https://doi.org/10.5281/zenodo.5555811)
+
 The model code for our paper under preparation.
 
 ## Description
